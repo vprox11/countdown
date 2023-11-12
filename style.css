@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.countdown {
+    margin-top: 50px;
+}
+
+#timer {
+    font-size: 36px;
+    font-weight: bold;
+}
